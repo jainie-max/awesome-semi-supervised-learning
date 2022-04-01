@@ -129,7 +129,14 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 ### Image Classification
 
 #### 2022
+- Class-Aware Contrastive Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/abs/2203.02261)
+  - Fan Yang, Kai Wu, Shuyi Zhang, Guannan Jiang, Yong Liu, Feng Zheng, Wei Zhang, Chengjie Wang, Long Zeng. *CVPR 2022*
 
+- SimMatch: Semi-supervised Learning with Similarity Matching.
+  [[pdf]](https://arxiv.org/abs/2203.06915) [[code]](https://github.com/KyleZheng1997/simmatch)
+  - Mingkai Zheng, Shan You, Lang Huang, Fei Wang, Chen Qian, Chang Xu. *CVPR 2022*
+  
 - ACPL: Anti-curriculum Pseudo-labelling for Semi-supervised Medical Image Classification.
   [[pdf]](https://arxiv.org/pdf/2111.12918)
   [[code]](https://github.com/FBLADL/ACPL)
