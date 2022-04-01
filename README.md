@@ -599,6 +599,10 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 ### Semantic and Instance Segmentation
+#### 2022
+- Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels.
+   [[pdf]](https://arxiv.org/abs/2203.03884)
+   - Yuchao Wang, Haochen Wang, Yujun Shen, Jingjing Fei, Wei Li, Guoqiang Jin, Liwei Wu, Rui Zhao, Xinyi Le. *CVPR 2022*
 
 #### 2021
 
