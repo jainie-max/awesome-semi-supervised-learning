@@ -594,19 +594,12 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ### Semantic and Instance Segmentation
 #### 2022
+- Unbiased Subclass Regularization for Semi-Supervised Semantic Segmentation.
+  - [[pdf]](Unbiased Subclass Regularization for Semi-Supervised Semantic Segmentation)
+  - D Guan, J Huang, A Xiao, S Lu. *CVPR 2022*
+
 - Perturbed and Strict Mean Teachers for Semi-supervised Semantic Segmentation
   [[pdf]](https://arxiv.org/abs/2111.12903)
   - Yuyuan Liu, Yu Tian, Yuanhong Chen, Fengbei Liu, Vasileios Belagiannis, Gustavo Carneiro. *CVPR 2022*
