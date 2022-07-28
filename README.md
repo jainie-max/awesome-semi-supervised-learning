@@ -596,6 +596,14 @@ learning methods, that uses weak labels (eg, image classes) for detection and se
 
 ### Semantic and Instance Segmentation
 #### 2022
+- Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection.
+  [[pdf]](https://arxiv.org/abs/2207.02541)
+  - Hongyu Zhou, Zheng Ge, Songtao Liu, Weixin Mao, Zeming Li, Haiyan Yu, Jian Sun. *ECCV 2022*
+  
+- CA-SSL: Class-Agnostic Semi-Supervised Learning for Detection and Segmentation.
+  [[pdf]](https://arxiv.org/abs/2112.04966) [[code]](https://github.com/dvlab-research/Entity)
+  - Lu Qi, Jason Kuen, Zhe Lin, Jiuxiang Gu, Fengyun Rao, Dian Li, Weidong Guo, Zhen Wen, Ming-Hsuan Yang, Jiaya Jia. *ECCV 2022*
+  
 - Unbiased Subclass Regularization for Semi-Supervised Semantic Segmentation.
   [[pdf]](https://arxiv.org/pdf/2203.10026.pdf)
   - D Guan, J Huang, A Xiao, S Lu. *CVPR 2022*
